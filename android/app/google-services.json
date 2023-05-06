@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "525408067193",
+    "project_id": "fir-authscreen-f4643",
+    "storage_bucket": "fir-authscreen-f4643.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525408067193:android:d14970657ddd967c4dbea8",
+        "android_client_info": {
+          "package_name": "com.example.screens"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525408067193-hk7tkkb4ed8tgfi34k40gftkl7ga5eqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOMFRbz4itnluqXaI49rzOEeb1wJXWXtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525408067193-hk7tkkb4ed8tgfi34k40gftkl7ga5eqp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
